@@ -5,6 +5,11 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets/
+
+https://clauterra.github.io/maps/
+
+https://docs.google.com/spreadsheets/d/1_7p8ppgM4lrFchxrVtrzCaS2zYPK3W9rSEI2rRDP5W8/edit#gid=0
+
 - Google Sheets template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
 
 ## Create your own
